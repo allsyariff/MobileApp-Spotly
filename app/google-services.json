@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "107245377177",
+    "firebase_url": "https://spotlyfinalv1-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "spotlyfinalv1",
+    "storage_bucket": "spotlyfinalv1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107245377177:android:000ca944c1c98ab6930a08",
+        "android_client_info": {
+          "package_name": "com.example.project1892"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD__V6q6kCYzgOR7OaP_oExsBauHDCzEk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107245377177:android:30c8f12eae0dd957930a08",
+        "android_client_info": {
+          "package_name": "com.example.spotlyfinalv1_0"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD__V6q6kCYzgOR7OaP_oExsBauHDCzEk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
